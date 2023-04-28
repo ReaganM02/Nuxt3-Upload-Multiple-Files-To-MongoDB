@@ -5,4 +5,4 @@ The files will be save in the `public/assets/images` folder and store their `pat
 * Create a .env file
 * Add your mongoDb URL `MONGO_URL=mongodb+srv://......`
 
-[![Example video](https://github.com/ReaganM02/Nuxt3-Upload-Multiple-Files-To-MongoDB/blob/master/public/Screenshot%202023-04-29%20at%201.18.40%20AM.png)](https://asset.cloudinary.com/dg1sh76js/425921b96eaaa55e7597308e09f204d4)
+[![Example video](https://github.com/ReaganM02/Nuxt3-Upload-Multiple-Files-To-MongoDB/blob/master/public/Screenshot%202023-04-29%20at%201.18.40%20AM.png)](https://res.cloudinary.com/dg1sh76js/video/upload/v1682702146/Screen_Recording_2023-04-29_at_1.02.40_AM_pvkzwj.mov)
