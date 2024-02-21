@@ -2,7 +2,7 @@
 The files will be save in the `public/assets/images` folder and store their `paths` in MongoDB. This allows you to easily access and manipulate the files along with their associated data. If you want to remove a file, you can delete the corresponding document in MongoDB, which in turn will remove the file from the images folder as well as its associated document. See video example.
 
 ## Drag & Drop Video Tutorial
-🔗 Drag & Drop Upload Multiple Files in Nuxt 3 with MongoDB.
+🔗 [Drag & Drop Upload Multiple Files in Nuxt 3 with MongoDB.](https://www.youtube.com/watch?v=mQxY3tL7-pg)
 
 ## Usage ##
 * Create a .env file
