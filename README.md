@@ -1,8 +1,8 @@
 # Nuxt 3: Upload multiple files using multer module. #
 The files will be save in the `public/assets/images` folder and store their `paths` in MongoDB. This allows you to easily access and manipulate the files along with their associated data. If you want to remove a file, you can delete the corresponding document in MongoDB, which in turn will remove the file from the images folder as well as its associated document. See video example.
 
-## Nuxt 3 and MongoDB: Drag & Drop Upload Multiple Files. Post, Get, & Delete Files.
-[![Sample YouTube Video](https://img.youtube.com/vi/YourVideoID/0.jpg)]([https://www.youtube.com/watch?v=YourVideoID](https://www.youtube.com/watch?v=mQxY3tL7-pg))
+### Click The Link Below for Nuxt 3 and MongoDB: Drag & Drop Upload Multiple Files. Post, Get, & Delete Files.
+🔗 https://www.youtube.com/watch?v=mQxY3tL7-pg
 
 
 ## Usage ##
